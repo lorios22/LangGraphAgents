@@ -11,6 +11,7 @@ This notebook implements a system to:
 - Implement a multi-agent classification system for web articles
 - Use Tavily search for enhanced web content analysis
 - Process and structure the extracted content for further analysis
+
 ![alt text](image.png)
 
 ### 2. Writer Agents (`writer_agent/writer_agents.ipynb`)
@@ -20,6 +21,7 @@ This notebook implements a hierarchical agent system that:
 - Processes research queries and generates comprehensive reports
 - Demonstrates the use of multi-agent conversation patterns
 - Handles complex research tasks through agent collaboration
+
 ![alt text](image-2.png)
 
 ### 3. Chart Generator (`chart_generator_agents/chart_generator.ipynb`)
@@ -29,6 +31,7 @@ This notebook focuses on financial data visualization:
 - Creates visualization agents for financial data
 - Generates radar charts and other visualizations for comparative analysis
 - Specializes in cryptocurrency market analysis and visualization
+
 ![alt text](image-1.png)
 
 ## Key Features
