@@ -17,3 +17,8 @@ flask
 PyQt5
 yahoofinance
 seaborn
+google-cloud-aiplatform 
+langchain-google-vertexai
+pydantic==2.9.0
+gcloud
+google-cloud-iam
